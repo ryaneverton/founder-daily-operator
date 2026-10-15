@@ -1,0 +1,16 @@
+{
+  "name": "founder-daily-operator",
+  "owner": {
+    "name": "Ryan Everton"
+  },
+  "metadata": {
+    "description": "A read-only morning operator for founders running several companies with agents: detects overnight changes and writes a 10-minute review queue. Never sends, spends or deploys."
+  },
+  "plugins": [
+    {
+      "name": "founder-daily-operator",
+      "source": "./",
+      "description": "A read-only morning operator for founders running several companies with agents: detects overnight changes and writes a 10-minute review queue. Never sends, spends or deploys."
+    }
+  ]
+}

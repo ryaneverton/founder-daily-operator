@@ -1,0 +1,23 @@
+{
+  "name": "founder-daily-operator",
+  "description": "A read-only morning operator for founders running several companies with agents: detects overnight changes and writes a 10-minute review queue. Never sends, spends or deploys.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Everton",
+    "url": "https://ryaneverton.org"
+  },
+  "homepage": "https://github.com/ryaneverton/founder-daily-operator",
+  "repository": "https://github.com/ryaneverton/founder-daily-operator",
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "claude-skills",
+    "agent-skills",
+    "agents",
+    "operations",
+    "founders",
+    "automation",
+    "guardrails",
+    "daily-brief"
+  ]
+}
